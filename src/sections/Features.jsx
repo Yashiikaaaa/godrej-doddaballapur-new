@@ -2,11 +2,11 @@ import React from 'react';
 
 export const Features = () => {
   // Array containing the features data
-  const featuresData = [
-    { id: 1, title: 'Project Size', value: '14 Acres' },
+ const featuresData = [
+    { id: 1, title: 'Project Size', value: '50 acres' },
     { id: 2, title: 'Possession', value: '2029 ' },
-    { id: 3, title: 'Starting Price', value: 'Rs 1.35 Cr*' },
-    { id: 4, title: 'Units', value: '2, 3, 4 BHK' },
+    { id: 3, title: 'Starting Price', value: '₹ 60 Lacs*' },
+    { id: 4, title: 'Plots', value: '1200 - 4000 sq. ft.' },
   ];
 
   return (
